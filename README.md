@@ -1,5 +1,4 @@
-This repository provides a baseline method based on temporal data averaging aggregated across hospitals. ## Citation
-
+This repository provides a baseline method based on temporal data averaging aggregated across hospitals.
 If you use this work, please cite the following paper:
 
 ```bibtex
